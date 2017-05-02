@@ -1,0 +1,1 @@
+"./lm4f120h5qr_startup_ccs_gcc.o" "./main.o" "./uartstdio.o" -Wl,-T"../lm4f120h5qr.lds" -Wl,--start-group -ldriver-cm4f -lc -Wl,--end-group 
